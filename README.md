@@ -40,13 +40,9 @@ If you discover any security related issues, please email zohaib.tariq@savyour.c
 
 ## Credits
 
--   [Zohaib](https://github.com/developerssavyour)
+-   [Zohaib](https://github.com/developers-savyour)
 -   [All Contributors](../../contributors)
 
 ## License
 
 The MIT License (MIT). Please see [License File](LICENSE.md) for more information.
-
-## Laravel Package Boilerplate
-
-This package was generated using the [Laravel Package Boilerplate](https://laravelpackageboilerplate.com).
