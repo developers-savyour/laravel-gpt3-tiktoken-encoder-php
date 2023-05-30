@@ -1,8 +1,8 @@
 {
-    "name": "developerssavyour/laravel-tiktoken",
+    "name": "developer-savyour/laravel-tiktoken",
     "description": "A package to connect tiktoken DB with php laravel",
     "keywords": [
-        "developerssavyour",
+        "developer-savyour",
         "laravel-tiktoken",
         "gpt3",
         "encoder-php"

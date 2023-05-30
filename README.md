@@ -1,8 +1,8 @@
 # A package to connect tiktoken DB with php laravel
 
-[![Latest Version on Packagist](https://img.shields.io/packagist/v/developerssavyour/laravel-tiktoken.svg?style=flat-square)](https://packagist.org/packages/developerssavyour/laravel-tiktoken)
-[![Total Downloads](https://img.shields.io/packagist/dt/developerssavyour/laravel-tiktoken.svg?style=flat-square)](https://packagist.org/packages/developerssavyour/laravel-tiktoken)
-![GitHub Actions](https://github.com/developerssavyour/laravel-tiktoken/actions/workflows/main.yml/badge.svg)
+[![Latest Version on Packagist](https://img.shields.io/packagist/v/developer-savyour/laravel-tiktoken.svg?style=flat-square)](https://packagist.org/packages/developer-savyour/laravel-tiktoken)
+[![Total Downloads](https://img.shields.io/packagist/dt/developer-savyour/laravel-tiktoken.svg?style=flat-square)](https://packagist.org/packages/developer-savyour/laravel-tiktoken)
+![GitHub Actions](https://github.com/developer-savyour/laravel-tiktoken/actions/workflows/main.yml/badge.svg)
 
 This is the package to connect tiktoken Vector DB with laravel via its APIs
 
@@ -11,7 +11,7 @@ This is the package to connect tiktoken Vector DB with laravel via its APIs
 You can install the package via composer:
 
 ```bash
-composer require developerssavyour/laravel-tiktoken
+composer require developer-savyour/laravel-tiktoken
 ```
 Or for Lumen Project manually add service provider: "DevelopersSavyour\TikToken\TikTokenServiceProvider" to bootstrap/app.php and run
 
