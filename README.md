@@ -13,11 +13,6 @@ You can install the package via composer:
 ```bash
 composer require developerssavyour/laravel-tiktoken
 ```
-Next, publish the configuration file:
-
-```bash
-php artisan vendor:publish --provider="DevelopersSavyour\TikToken\TikTokenServiceProvider"
-```
 Or for Lumen Project manually add service provider: "DevelopersSavyour\TikToken\TikTokenServiceProvider" to bootstrap/app.php and run
 
 ```bash
